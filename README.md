@@ -9,7 +9,7 @@
 
 ### Workflow
 
-You'll be working in **`main.test.js`** this time!, creating the variables needed with the values asked for, according to the specifications given in the tests. Check your terminal for feedback on which aspect of the problem you have yet to complete, and read the specifications' actual code implementation for extra help; it makes explicit exactly what outputs are expected given the test inputs.
+You'll be working in main.test.js, creating the variables and functions needed, according to the specifications given in the Tasks section below. Check your terminal for feedback on which aspect of the problem you have yet to complete!
 
 
 ### Guidelines:
@@ -36,8 +36,8 @@ Now let's make these variables useful!
 
 * Create a function named  `double` and have it double the value of x.
 * Create a function named  `triple` and have it triple the value of y.
-* Create a function named  `square` and have it square the value of squareTheNumber.
+* Create a function named  `square` and have it square the value of `squareTheNumber`.
 * Create a function named  `beingNice` and have it change the value of greeting to the string 'hello' plus your name using the value of the variable `firstName`. You can include other characters if you wish.
-* Create a function named  `fullName` and have it change the value of firstName to the string 'not found'.
+* Create a function named  `fullName` and have it change the value of `firstName` to the string 'not found'.
 * Create a function named  `phoneCall` and have it change the value of calling to the string 'call ended'.
 
